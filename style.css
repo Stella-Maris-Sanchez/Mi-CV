@@ -27,8 +27,8 @@ body{
       border-radius: 50%;
       border-color:#FFF ;
       border-style: solid;
-      width: 200px;
-      height: 200px;
+      width: 180px;
+      height: 180px;
       float: left;
     }    
     
@@ -122,10 +122,10 @@ p{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-weight: 400px;
   color: #FFF;
   text-align: center;
-   margin-right: 6px;
+  margin-right: 6px;
 
 }
-label,input, select, textarea {
+label,input, select, textarea,button {
   font-family: inherit;
   font-size: 18px; 
   font-weight: bold;
